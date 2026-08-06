@@ -16,3 +16,8 @@ p {
   font-size: 14px;
   font-family: Arial
 }
+/*Banner colour*/
+.banner {
+  background-color: darkcyan;
+  text-align: right;
+}
